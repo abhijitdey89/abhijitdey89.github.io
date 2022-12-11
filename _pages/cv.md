@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Communication, North Maharshtra University, 2011
+* M.Tech. in Radio Frequency and Microwave Engineering, Gandhi Institute of Technology and Management, 2014
+* Ph.D in Electrical and Electronics Engineering, Birla Institute of Technology and Science- Pilani, 2022 (expected)
 
 Work experience
 ======
